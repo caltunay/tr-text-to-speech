@@ -1,5 +1,6 @@
 # Ignore virtual environment
 tts-app/
+tts-tr/
 
 # Ignore Python cache files
 __pycache__/
@@ -11,3 +12,6 @@ __pycache__/
 
 # Ignore VSCode settings
 .vscode/
+
+# ignore the voice recording
+output.mp3
